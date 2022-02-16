@@ -1,5 +1,5 @@
 #include <iostream>
-#include<stdio.h>
+#include <stdio.h>
 #include "sophus/se3.hpp"
 
 using namespace std;
