@@ -62,5 +62,10 @@
         "typeindex": "cpp",
         "typeinfo": "cpp",
         "unordered_set": "cpp"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#490A69",
+        "titleBar.activeBackground": "#660E93",
+        "titleBar.activeForeground": "#FEFCFF"
     }
 }
