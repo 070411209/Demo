@@ -6,7 +6,7 @@
 
 int main(int argc, char** argv) {
     std::vector<std::string> imageFilenamesL;
-    std::string inputDir = "/home/one/calib_data/test";
+    std::string inputDir = "/home/one/calib_data/gz";
     std::string fileExtension = ".bmp";
     // std::cout << "argv[1]: " << std::stoi(argv[1]) << std::endl;
     std::string prefixL = argv[1];
