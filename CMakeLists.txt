@@ -19,4 +19,4 @@ include_directories(${OpenCV_INCLUDE_DIRS})
 include_directories(${PCL_INCLUDE_DIRS})
 
 
-add_subdirectory(games)
+add_subdirectory(fifo)
