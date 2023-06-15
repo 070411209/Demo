@@ -60,3 +60,14 @@ target_link_libraries(
     ${Sophus_LIBRARIES} 
     fmt
 )
+
+
+add_executable(load_pcd load_pcd.cpp)
+
+target_link_libraries(
+    load_pcd 
+    ${OpenCV_LIBS} 
+    ${PCL_LIBRARIES}
+    ${Sophus_LIBRARIES} 
+    fmt
+)
